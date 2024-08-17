@@ -90,22 +90,21 @@ console.log(findingDuplicate([1, 10, 1, -1, 10, -1]));         // So the Output 
 
 
 
-Question1: Which type of search is efficient on a sorted array?
-Answer: B) Binary Search
+// Question1: Which type of search is efficient on a sorted array?
+// Answer: B) Binary Search
 
 
-What is the time complexity of inserting a new node at the
-beginning of a singly linked list?
-Answer: A) O(1)
+// What is the time complexity of inserting a new node at the beginning of a singly linked list?
+// Answer: A) O(1)
 
 
-In a binary search tree (BST), the left child of a node is always:
-Answer: B) Smaller than the node
+// In a binary search tree (BST), the left child of a node is always:
+// Answer: B) Smaller than the node
 
 
-Which traversal of a BST visits nodes in ascending order?
-Answer: C) In-order
+// Which traversal of a BST visits nodes in ascending order?
+// Answer: C) In-order
 
 
-In a doubly linked list, what does the prev pointer in the first node point to?
-Answer: B) Null
+// In a doubly linked list, what does the prev pointer in the first node point to?
+// Answer: B) Null
